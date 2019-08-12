@@ -1,7 +1,7 @@
-package com.kmair.KYUpdateHelper.compile;
+package com.updateHelper.compile;
 
-import com.kmair.KYUpdateHelper.file.FileTools;
-import com.kmair.KYUpdateHelper.utils.Utils;
+import com.updateHelper.file.FileTools;
+import com.updateHelper.utils.Utils;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;

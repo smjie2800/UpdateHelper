@@ -1,19 +1,11 @@
-package com.kmair.KYUpdateHelper;
+package com.updateHelper;
 
-import com.kmair.KYUpdateHelper.utils.Utils;
+import com.updateHelper.utils.Utils;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
-import sun.net.www.http.HttpClient;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.util.Date;
 
 /**
  * Created with IntelliJ IDEA.

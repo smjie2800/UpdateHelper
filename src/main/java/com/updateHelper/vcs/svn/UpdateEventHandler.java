@@ -1,4 +1,4 @@
-package com.kmair.KYUpdateHelper.vcs.svn;
+package com.updateHelper.vcs.svn;
 
 /*
  * ====================================================================

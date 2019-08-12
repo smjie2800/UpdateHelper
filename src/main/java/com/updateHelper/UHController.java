@@ -1,6 +1,6 @@
-package com.kmair.KYUpdateHelper;
+package com.updateHelper;
 
-import com.kmair.KYUpdateHelper.service.UHService;
+import com.updateHelper.service.UHService;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.ui.Model;

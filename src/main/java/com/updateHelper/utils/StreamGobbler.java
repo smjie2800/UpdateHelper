@@ -1,4 +1,4 @@
-package com.kmair.KYUpdateHelper.utils;
+package com.updateHelper.utils;
 
 import java.io.BufferedReader;
 import java.io.IOException;

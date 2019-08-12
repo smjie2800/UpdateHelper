@@ -1,4 +1,4 @@
-package com.kmair.KYUpdateHelper.utils;
+package com.updateHelper.utils;
 
 import org.apache.log4j.Logger;
 import java.io.*;

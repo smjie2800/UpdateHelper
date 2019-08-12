@@ -1,4 +1,4 @@
-package com.kmair.KYUpdateHelper;
+package com.updateHelper;
 
 import org.apache.log4j.Logger;
 import org.springframework.boot.SpringApplication;

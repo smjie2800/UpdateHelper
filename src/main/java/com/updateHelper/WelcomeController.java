@@ -1,4 +1,4 @@
-package com.kmair.KYUpdateHelper;
+package com.updateHelper;
 
 import java.util.Date;
 import org.apache.log4j.Logger;

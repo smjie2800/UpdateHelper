@@ -1,10 +1,10 @@
-package com.kmair.KYUpdateHelper.service;
+package com.updateHelper.service;
 
 
-import com.kmair.KYUpdateHelper.compile.CompileTools;
-import com.kmair.KYUpdateHelper.vcs.svn.SvnTools;
-import com.kmair.KYUpdateHelper.file.FileTools;
-import com.kmair.KYUpdateHelper.utils.Utils;
+import com.updateHelper.compile.CompileTools;
+import com.updateHelper.vcs.svn.SvnTools;
+import com.updateHelper.file.FileTools;
+import com.updateHelper.utils.Utils;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

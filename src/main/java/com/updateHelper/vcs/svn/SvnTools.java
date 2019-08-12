@@ -1,4 +1,4 @@
-package com.kmair.KYUpdateHelper.vcs.svn;
+package com.updateHelper.vcs.svn;
 
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Repository;

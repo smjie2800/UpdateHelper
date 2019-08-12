@@ -1,4 +1,4 @@
-package com.kmair.KYUpdateHelper.file;
+package com.updateHelper.file;
 
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Repository;

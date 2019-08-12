@@ -1,4 +1,4 @@
-package com.kmair.KYUpdateHelper.vcs.git;
+package com.updateHelper.vcs.git;
 
 import com.jcraft.jsch.JSch;
 import com.jcraft.jsch.JSchException;

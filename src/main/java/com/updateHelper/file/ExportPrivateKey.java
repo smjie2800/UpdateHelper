@@ -1,4 +1,4 @@
-package com.kmair.KYUpdateHelper.file;
+package com.updateHelper.file;
 
 import java.io.*;
 import java.security.Key;
