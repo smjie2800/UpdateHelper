@@ -1,4 +1,4 @@
-﻿<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>UpdateHelper</groupId>
@@ -153,7 +153,7 @@
           <dependency>
               <groupId>org.eclipse.jgit</groupId>
               <artifactId>org.eclipse.jgit</artifactId>
-              <version>4.3.1.201605051710-r</version>
+              <version>6.6.1.202309021850-r</version>
           </dependency>
 
       <!-- Smart HTTP Servlet -->
